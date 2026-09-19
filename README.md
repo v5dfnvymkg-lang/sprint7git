@@ -28,3 +28,6 @@ Los gráficos son interactivos (zoom, desplazamiento y detalle al pasar el curso
 1. Crea y activa un entorno virtual.
 2. Instala las dependencias: `pip install -r requirements.txt`
 3. Ejecuta: `streamlit run app.py`
+
+##Aplicación en línea
+https://sprint7git.onrender.com
